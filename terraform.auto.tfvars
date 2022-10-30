@@ -35,5 +35,5 @@ account_no = "594164837096"
 tags = {
   Owner-Email     = "eoanitservice@gmail.com"
   Managed-By      = "Terraform"
-  Billing-Account = "1234567890"
+  Billing-Account = "594164837096"
 }

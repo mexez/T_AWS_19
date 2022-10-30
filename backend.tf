@@ -13,7 +13,7 @@ terraform {
     organization = "eoan"
 
     workspaces {
-      name = "PBL-19"
+      name = "Mozupdz"
     }
   }
 }
